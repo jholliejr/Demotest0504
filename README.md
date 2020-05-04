@@ -1,2 +1,1 @@
-# Demotest0504
-practice repository may 4
+The project is to demo github - jhh
